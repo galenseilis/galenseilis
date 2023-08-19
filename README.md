@@ -16,6 +16,7 @@ Hi there, I'm Galen 👋
 
 <a href="https://stackexchange.com/users/5468284/galen" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg alt="Galen Seilis | Stack Exchange" width=40px></a>
 
+<a href="https://www.fiverr.com/users/galenseilis/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src='./images/fiverr.png' alt="Galen Seilis | Stack Exchange" width=40px></a>
 
 </br>
 </br>
