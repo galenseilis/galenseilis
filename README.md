@@ -2,6 +2,14 @@
 Hi there, I'm Galen 👋
 </h3>
 
+<h2 align="center">
+I'm a Data Scientist 📈
+</h2>
+
+- 👀 I’m interested in Bayesian inference, causal inference, mathematical modelling, machine learning, and deep learning.
+- 🌱 I’m currently learning causal inference and Kedro.
+- 💞️ I’m looking to collaborate on projects with domain experts.
+
 # Contact
 
 <a href="https://ca.linkedin.com/in/galen-s-4208349b" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/linkedin.png" alt="Galen Seilis | LinkedIn" width=40px></a>
@@ -32,3 +40,4 @@ Hi there, I'm Galen 👋
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kedro](https://img.shields.io/)
