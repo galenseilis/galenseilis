@@ -8,7 +8,7 @@ Hi there, I'm Galen 👋
 
 <a href="https://galenseilis.github.io/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://github.com/galenseilis/galenseilis.github.io/blob/main/assets/img/favicons/android-chrome-512x512.png alt="Galen Seilis | Blog" width=40px></a>
 
-<a href="https://orcid.org/0000-0002-3570-6826" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/orcid.png" alt="Galen Seilis | ORCiD" width=40px></a>
+<a href="https://orcid.org/0000-0002-0456-735X" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/orcid.png" alt="Galen Seilis | ORCiD" width=43px></a>
 
 <a href="https://twitter.com/GSeilis" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Galen Seilis | Twitter" width=40px></a>
 
