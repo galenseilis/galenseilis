@@ -12,7 +12,7 @@ Hi there, I'm Galen 👋
 
 <a href="https://twitter.com/GSeilis" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Galen Seilis | Twitter" width=40px></a>
 
-<a href="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png alt="Galen Seilis | iNaturalist" width=40px></a>
+<a href="https://www.inaturalist.org/people/5429560" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png alt="Galen Seilis | iNaturalist" width=40px></a>
 
 <a href="https://stackexchange.com/users/5468284/galen" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg alt="Galen Seilis | Stack Exchange" width=40px></a>
 
