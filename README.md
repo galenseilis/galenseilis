@@ -1,9 +1,5 @@
-<h3 align="center">
-Hi there, I'm Galen 👋
-</h3>
-
 <h2 align="center">
-I'm a Data Scientist 📈
+Data Scientist 📈
 </h2>
 
 - 👀 I’m interested in Bayesian inference, causal inference, mathematical modelling, machine learning, and deep learning.
