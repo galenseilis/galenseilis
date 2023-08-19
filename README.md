@@ -12,6 +12,8 @@ Hi there, I'm Galen 👋
 
 <a href="https://twitter.com/GSeilis" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Galen Seilis | Twitter" width=40px></a>
 
+<a href="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png alt="Galen Seilis | iNaturalist" width=40px></a>
+
 </br>
 </br>
 
