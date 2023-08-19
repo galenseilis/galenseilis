@@ -14,6 +14,9 @@ Hi there, I'm Galen 👋
 
 <a href="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png alt="Galen Seilis | iNaturalist" width=40px></a>
 
+<a href="https://stackexchange.com/users/5468284/galen" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/commons/7/75/Stack_Exchange_logo_and_wordmark.svg alt="Galen Seilis | Stack Exchange" width=80px></a>
+
+
 </br>
 </br>
 
