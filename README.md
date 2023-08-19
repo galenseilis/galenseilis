@@ -6,7 +6,7 @@ Data Scientist 📈
 - 🌱 I’m currently learning causal inference and Kedro.
 - 💞️ I’m looking to collaborate on projects with domain experts.
 
-# Contact
+# Elsewhere
 
 <a href="https://ca.linkedin.com/in/galen-s-4208349b" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/linkedin.png" alt="Galen Seilis | LinkedIn" width=40px></a>
 
