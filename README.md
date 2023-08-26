@@ -15,6 +15,8 @@ Data Scientist 📈
 
 <a href="https://orcid.org/0000-0002-0456-735X" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/orcid.png" alt="Galen Seilis | ORCiD" width=43px></a>
 
+<a href="https://scholar.google.com/citations?hl=en&user=4RXGnFkAAAAJ" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/scholar.png" alt="Galen Seilis | Google Scholar" width=43px></a>
+
 <a href="https://twitter.com/GSeilis" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Galen Seilis | Twitter" width=40px></a>
 
 <a href="https://www.inaturalist.org/people/5429560" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png alt="Galen Seilis | iNaturalist" width=40px></a>
