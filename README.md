@@ -4,8 +4,6 @@ Data Scientist 📈
 
 - 👀 I’m interested in Bayesian inference, causal inference, mathematical modelling, simulation, and network analysis.
 - 🌱 I’m currently learning causal inference and Kedro.
-- 💞️ I’m looking to collaborate on projects with domain experts.
-- ✉️ galen.seilis@googlemail.com
 - 🙈🙊🙉 My pinned repos below are actually reminders for **me** to work on those things... Sorry! 
 
 # Elsewhere
