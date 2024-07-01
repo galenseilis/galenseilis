@@ -3,7 +3,7 @@ Data Scientist 📈
 </h2>
 
 - 👀 I’m interested in Bayesian inference, causal inference, mathematical modelling, simulation, and network analysis.
-- 🌱 I’m currently learning causal inference and Kedro.
+- 🌱 Always learning.
 - 🙈🙊🙉 My pinned repos below are actually reminders for **me** to work on those things... Sorry! 
 
 # Elsewhere
