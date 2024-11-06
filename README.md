@@ -13,25 +13,22 @@ Data Scientist 📈
 - 🙈🙊🙉 My pinned repos below are actually reminders for **me** to work on those things... Sorry! 
 
 # Elsewhere
-  
-<a href="https://ca.linkedin.com/in/galen-s-4208349b" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/linkedin.png" alt="Galen Seilis | LinkedIn" width=40px></a>
+<div align="center">
 
-<a href="https://galenseilis.github.io/blog/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://github.com/galenseilis/galenseilis.github.io/blob/main/assets/img/favicons/android-chrome-512x512.png alt="Galen Seilis | Blog" width=40px></a>
+<table>
+  <tr>
+    <td><a href="https://ca.linkedin.com/in/galen-s-4208349b" target="_blank" rel="noreferrer noopener"><img src="./images/linkedin.png" alt="Galen Seilis | LinkedIn" width="40px"></a></td>
+    <td><a href="https://galenseilis.github.io/blog/" target="_blank" rel="noreferrer noopener"><img src="https://github.com/galenseilis/galenseilis.github.io/blob/main/assets/img/favicons/android-chrome-512x512.png" alt="Galen Seilis | Blog" width="40px"></a></td>
+    <td><a href="https://orcid.org/0000-0002-0456-735X" target="_blank" rel="noreferrer noopener"><img src="./images/orcid.png" alt="Galen Seilis | ORCiD" width="43px"></a></td>
+    <td><a href="https://scholar.google.com/citations?hl=en&user=4RXGnFkAAAAJ" target="_blank" rel="noreferrer noopener"><img src="./images/scholar.png" alt="Galen Seilis | Google Scholar" width="43px"></a></td>
+    <td><a href="https://twitter.com/GSeilis" target="_blank" rel="noreferrer noopener"><img src="./images/twitter.png" alt="Galen Seilis | Twitter" width="40px"></a></td>
+    <td><a href="https://www.inaturalist.org/people/5429560" target="_blank" rel="noreferrer noopener"><img src="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" alt="Galen Seilis | iNaturalist" width="40px"></a></td>
+    <td><a href="https://stackexchange.com/users/5468284/galen" target="_blank" rel="noreferrer noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" alt="Galen Seilis | Stack Exchange" width="40px"></a></td>
+    <td><a href="https://www.fiverr.com/users/galenseilis/" target="_blank" rel="noreferrer noopener"><img src="./images/fiverr.png" alt="Galen Seilis | Fiverr" width="40px"></a></td>
+  </tr>
+</table>
 
-<a href="https://orcid.org/0000-0002-0456-735X" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/orcid.png" alt="Galen Seilis | ORCiD" width=43px></a>
-
-<a href="https://scholar.google.com/citations?hl=en&user=4RXGnFkAAAAJ" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/scholar.png" alt="Galen Seilis | Google Scholar" width=43px></a>
-
-<a href="https://twitter.com/GSeilis" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/twitter.png" alt="Galen Seilis | Twitter" width=40px></a>
-
-<a href="https://www.inaturalist.org/people/5429560" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png alt="Galen Seilis | iNaturalist" width=40px></a>
-
-<a href="https://stackexchange.com/users/5468284/galen" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg alt="Galen Seilis | Stack Exchange" width=40px></a>
-
-<a href="https://www.fiverr.com/users/galenseilis/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src='./images/fiverr.png' alt="Galen Seilis | Stack Exchange" width=40px></a>
-
-</br>
-</br>
+</div>
 
 
 # Some Tools I Enjoy
@@ -48,10 +45,8 @@ Data Scientist 📈
 
 </div>
 
-
 # Github Summary
 <p align="center">
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=shadow_green&include_all_commits=true" />
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=shadow_green&show_icons=true" />
 </p>
-<div align="center">
