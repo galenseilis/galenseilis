@@ -1,14 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=36&pause=1000&color=F7F7F7&background=#FEFFFF&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Galen+Seilis)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Galen+Seilis!" alt="Typing SVG" /></a>
 </div>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=dracula&show_icons=true" />
-</p>
-<div align="center">
 
 <h2 align="center">
 Data Scientist 📈
@@ -48,3 +41,10 @@ Data Scientist 📈
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Neovim](https://img.shields.io/badge/Neovim%200.8+-green.svg?style=for-the-badge&logo=neovim)](https://neovim.io)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=dracula&show_icons=true" />
+</p>
+<div align="center">
