@@ -51,7 +51,7 @@ Data Scientist 📈
 
 # Github Summary
 <p align="center">
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=dracula&show_icons=true" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=shadow_green&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=shadow_green&show_icons=true" />
 </p>
 <div align="center">
