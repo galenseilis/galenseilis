@@ -1,3 +1,15 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=36&pause=1000&color=F7F7F7&background=#FEFFFF&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Galen+Seilis)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=dracula&show_icons=true" />
+</p>
+<div align="center">
+
 <h2 align="center">
 Data Scientist 📈
 </h2>
