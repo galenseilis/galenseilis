@@ -13,7 +13,7 @@ Data Scientist 📈
 - 🙈🙊🙉 My pinned repos below are actually reminders for **me** to work on those things... Sorry! 
 
 # Elsewhere
-
+  
 <a href="https://ca.linkedin.com/in/galen-s-4208349b" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src="./images/linkedin.png" alt="Galen Seilis | LinkedIn" width=40px></a>
 
 <a href="https://galenseilis.github.io/blog/" target="_blank" rel="noreferrer noopener" text-decoration=none><img align="left" src=https://github.com/galenseilis/galenseilis.github.io/blob/main/assets/img/favicons/android-chrome-512x512.png alt="Galen Seilis | Blog" width=40px></a>
@@ -33,7 +33,10 @@ Data Scientist 📈
 </br>
 </br>
 
+
 # Some Tools I Enjoy
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -42,6 +45,9 @@ Data Scientist 📈
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Neovim](https://img.shields.io/badge/Neovim%200.8+-green.svg?style=for-the-badge&logo=neovim)](https://neovim.io)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
 
 # Github Summary
 <p align="center">
