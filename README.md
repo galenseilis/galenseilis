@@ -55,3 +55,7 @@ Data Scientist 📈
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=shadow_green&include_all_commits=true" />
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=shadow_green&show_icons=true" />
 </p>
+
+<p align="center">
+<img  src="https://streak-stats.demolab.com/?user=galenseilis&theme=shadow_green" alt="galenseilis"></a>
+</p>
