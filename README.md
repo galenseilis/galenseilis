@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=36&pause=1000&color=F7F7F7&background=002D04&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Galen+Seilis!)](https://github.com/galenseilis/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=36&pause=1000&color=F7F7F7&background=424481&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Galen+Seilis!)](https://github.com/galenseilis/)
 </div>
 
 <h2 align="center">
@@ -56,10 +56,10 @@ Data Scientist 📈
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=shadow_green&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=shadow_green&show_icons=true" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=nightowl&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=nightowl&show_icons=true" />
 </p>
 
 <p align="center">
-<img  src="https://streak-stats.demolab.com/?user=galenseilis&theme=shadow_green" alt="galenseilis"></a>
+<img  src="https://streak-stats.demolab.com/?user=galenseilis&theme=nightowl" alt="galenseilis"></a>
 </p>
