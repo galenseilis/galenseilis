@@ -44,6 +44,13 @@ Data Scientist 📈
 </div>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Summary
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=galenseilis&label=Profile%20views&color=0e75b6&style=flat" alt="galenseilis" /></a>
+ <a href="https://github.com/galenseilis">
+  <img src="https://img.shields.io/github/followers/galenseilis?label=Followers" alt="galenseilis" /></a>
+</p>
+
 <p align="center">
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=shadow_green&include_all_commits=true" />
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=shadow_green&show_icons=true" />
