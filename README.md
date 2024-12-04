@@ -59,7 +59,3 @@ Data Scientist 📈
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=galenseilis&show_icons=true&theme=nightowl&include_all_commits=true" />
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=galenseilis&theme=nightowl&show_icons=true" />
 </p>
-
-<p align="center">
-<img  src="https://streak-stats.demolab.com/?user=galenseilis&theme=nightowl" alt="galenseilis"></a>
-</p>
