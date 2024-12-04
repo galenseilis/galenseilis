@@ -47,7 +47,7 @@ Data Scientist 📈
 
 </div>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Summary
+#<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Summary
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=galenseilis&label=Profile%20views&color=0e75b6&style=flat" alt="galenseilis" /></a>
