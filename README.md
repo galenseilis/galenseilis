@@ -13,7 +13,7 @@ Data Scientist 📈
 
 - 👀 I’m interested in causal inference, Bayesian inference, mathematical modelling, simulation, and network analysis.
 - 🌱 Always learning.
-- 🙈🙊🙉 My pinned repos below are actually reminders for **me** to work on those things... Sorry! 
+- 🙈🙊🙉 My pinned repos below are actually reminders for me to work on those things... Sorry! 
 
 # Elsewhere
 <div align="center">
